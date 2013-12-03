@@ -1,0 +1,20 @@
+{
+  "name": "macFiddler",
+  "version": "0.1.0",
+  "description": "Node.js enabled Fiddler like http debugging proxy in mac",
+  "author": {
+    "name" : "stauren",
+    "email" : "stauren@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stauren/macFiddler.git"
+  },
+  "keywords": ["mac", "fiddler", "proxy", "javascript"],
+  "main": "./index.js",
+  "devDependencies": {
+    "deferred": "0.6.6",
+    "iconv-lite": "0.2.11",
+    "memorystream": "0.2.0"
+  }
+}
