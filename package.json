@@ -28,6 +28,7 @@
   "dependencies": {
     "deferred": ">=0.6.6",
     "iconv-lite": ">=0.2.11",
-    "memorystream": ">=0.2.0"
+    "memorystream": ">=0.2.0",
+    "mime": "1.3.4"
   }
 }
